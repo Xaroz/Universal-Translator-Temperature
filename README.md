@@ -1,7 +1,7 @@
 # UniversalTranslatorTemperature
 Project for Tendencias en Desarrollo de Aplicaciones where you can convert from one temperature unit to another.
 
-##How it works
+###How it works
 
 ### You must pass a .txt file with the following characteristics: 
 #### Value: the value you wish to convert, must be a number input
