@@ -18,3 +18,4 @@ Project for Tendencias en Desarrollo de Aplicaciones where you can convert from 
 
 ## CRC Cards
 ![alt text](https://github.com/Xaroz/UniversalTranslatorTemperature/blob/master/TemperatureCRC.jpg "Temperature CRC")
+![alt text](https://github.com/Xaroz/UniversalTranslatorTemperature/blob/master/ConvertTemperature.jpg "ConvertTemperature CRC")
