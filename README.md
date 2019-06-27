@@ -17,5 +17,5 @@ Project for Tendencias en Desarrollo de Aplicaciones where you can convert from 
 * NetCore extension installed
 
 ## CRC Cards
-![alt text](https://github.com/Xaroz/UniversalTranslatorTemperature/blob/master/TemperatureCRC.jpg "Temperature CRC")
-![alt text](https://github.com/Xaroz/UniversalTranslatorTemperature/blob/master/ConvertTemperature.jpg "ConvertTemperature CRC")
+![Temperature](https://github.com/Xaroz/UniversalTranslatorTemperature/blob/master/TemperatureCRC.jpg "Temperature CRC")
+![ConvertTemperature](https://github.com/Xaroz/UniversalTranslatorTemperature/blob/master/ConvertTemperature.jpg "ConvertTemperature CRC")
