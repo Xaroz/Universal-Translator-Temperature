@@ -15,3 +15,6 @@ Project for Tendencias en Desarrollo de Aplicaciones where you can convert from 
 
 * Visual Studio 2017 or newer
 * NetCore extension installed
+
+## CRC Cards
+![alt text](https://github.com/Xaroz/UniversalTranslatorTemperature/blob/master/TemperatureCRC.jpg "Temperature CRC")
