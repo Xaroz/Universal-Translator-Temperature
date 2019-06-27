@@ -13,5 +13,5 @@ Project for Tendencias en Desarrollo de Aplicaciones where you can convert from 
 
 ## Prerequisites
 
-* Visual Studio 2017 or never
+* Visual Studio 2017 or newer
 * NetCore extension installed
