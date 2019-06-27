@@ -10,3 +10,8 @@ Project for Tendencias en Desarrollo de Aplicaciones where you can convert from 
 
 #### Each element must be separated by an space and each line represents a different unit you wish to convert.
 #### The program will create a txt file with the same elements as the input file including an extra element which is the value that the initial value is converted to.
+
+## Prerequisites
+
+* Visual Studio 2017 or never
+* NetCore extension installed
