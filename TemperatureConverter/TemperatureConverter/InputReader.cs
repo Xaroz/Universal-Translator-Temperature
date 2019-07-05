@@ -87,8 +87,6 @@ namespace TemperatureConverter
                 ConvertedList.Add(result);
                 counter++;
             }
-        }
-
-        
+        }       
     }
 }

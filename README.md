@@ -3,13 +3,16 @@ Project for Tendencias en Desarrollo de Aplicaciones where you can convert from 
 
 ## How it works
 
-#### You must pass a .txt file with the following characteristics: 
+#### The program will ask you to write the directory of the text file you wish to convert.
+#### You must pass .txt file with the following characteristics: 
 * Value: the value you wish to convert, must be a number input.
 * Origin Unit: The temperature unit that the value is originating from: C for Celsius scale , K for Kelvin scale, F for Fahrenheit scale.
 * Converted Unit: The temperature unit that you wish to convert to, again: C for Celsius scale , K for Kelvin scale, F for Fahrenheit scale.
 
-#### Each element must be separated by an space and each line represents a different unit you wish to convert.
-#### The program will create a txt file with the same elements as the input file including an extra element which is the value that the initial value is converted to.
+#### Each element must be separated by an space and each line represents a different unit you wish to convert, no empty spaces nor empty lines are allowed
+#### Finally the program will ask you to write the directory of the text file you wish to place the converted temperatures.
+#### If the file does not exist the the program will create it for you in the the same directory
+#### The resulting .txt file will have almost the same elements as the initial file: initial value, origin unit, converted value and converted unit.
 
 ## Prerequisites
 
