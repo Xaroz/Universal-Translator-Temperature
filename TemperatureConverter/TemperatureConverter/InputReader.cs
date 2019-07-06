@@ -7,11 +7,9 @@ namespace TemperatureConverter
 {
     public class InputReader
     {
-        // C:\Users\jheis\Desktop\TemperatureTester\Test.txt
-        // C:\Users\jheis\Desktop\TemperatureTester\ConvertedResult.txt
-        List<string> lines;
-        List<string> ConvertedList = new List<string>();
-        public void ReadLines()
+        private List<string> lines;
+        private List<string> convertedList = new List<string>();
+        public void ReadAndConvert()
         {
             Console.WriteLine("Please write the directory where your file is located.");
             string dir = Console.ReadLine();          
@@ -33,7 +31,7 @@ namespace TemperatureConverter
             dir = Console.ReadLine();
             try
             {
-                File.WriteAllLines(dir, ConvertedList);
+                File.WriteAllLines(dir, convertedList);
             }
             catch
             {
@@ -84,7 +82,7 @@ namespace TemperatureConverter
                 }
 
                 string result = temperatureConverter.ConvertTemperature(value, to_convert[1], to_convert[2]);
-                ConvertedList.Add(result);
+                convertedList.Add(result);
                 counter++;
             }
             return;

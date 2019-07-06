@@ -7,7 +7,7 @@ namespace TemperatureConverter
         static void Main(string[] args)
         {           
             InputReader input = new InputReader();
-            input.ReadLines();
+            input.ReadAndConvert();
         }
     }
 }

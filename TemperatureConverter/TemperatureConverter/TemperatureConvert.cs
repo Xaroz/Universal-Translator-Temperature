@@ -6,6 +6,8 @@ namespace TemperatureConverter
 {
     public class TemperatureConvert
     {
+        private string result;
+
         public string ConvertTemperature(double value, string actual_unit, string converted_unit)
         {
             // C is for Celsius, F is for Fahrenheit and K is for Kelvin
@@ -29,7 +31,7 @@ namespace TemperatureConverter
             string value_string = Convert.ToString(value);
             string converted_value_string = Convert.ToString(converted_value);
 
-            string result = value_string + " " + actual_unit + " " + converted_value_string + " " + converted_unit;
+            result = value_string + " " + actual_unit + " " + converted_value_string + " " + converted_unit;
             return result;
         }
     }
