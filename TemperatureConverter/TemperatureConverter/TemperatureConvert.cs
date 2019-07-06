@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TemperatureConverter
 {
-    public class TemperatureConverter
+    public class TemperatureConvert
     {
         public string ConvertTemperature(double value, string actual_unit, string converted_unit)
         {

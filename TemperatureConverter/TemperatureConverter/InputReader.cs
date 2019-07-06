@@ -45,7 +45,7 @@ namespace TemperatureConverter
         private void CheckFormatAndConvert(List<string> lines)
         {
             int counter = 1;
-            TemperatureConverter temperatureConverter = new TemperatureConverter();
+            TemperatureConvert temperatureConverter = new TemperatureConvert();
             foreach(string line in lines)
             {
                 //splitting the list by space
@@ -87,6 +87,7 @@ namespace TemperatureConverter
                 ConvertedList.Add(result);
                 counter++;
             }
+            return;
         }       
     }
 }
