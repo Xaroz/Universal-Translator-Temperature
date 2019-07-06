@@ -22,3 +22,6 @@ Project for Tendencias en Desarrollo de Aplicaciones where you can convert from 
 ## CRC Cards
 ![InputReader](https://github.com/Xaroz/UniversalTranslatorTemperature/blob/master/InputReader.jpg "InputReader CRC")
 ![TemperatureConvert](https://github.com/Xaroz/UniversalTranslatorTemperature/blob/master/TemperatureConvertCRC.jpg "TemperatureConvert CRC")
+
+## UML Class Diagram
+![Class Diagram](https://github.com/Xaroz/UniversalTranslatorTemperature/blob/master/ClassDiagram.jpg "Class Diagram")
