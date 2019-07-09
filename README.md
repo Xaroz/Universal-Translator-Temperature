@@ -19,7 +19,7 @@ Project for Tendencias en Desarrollo de Aplicaciones where you can convert from 
 * Visual Studio 2017 or newer
 * NetCore extension installed
 
-##How to run the program
+## How to run the program
 
 #### To run the project you must open the solution through Visual Studio then simply run the project TemperatureConverter for it to work, remember to have all the prerequisites installed.
 
